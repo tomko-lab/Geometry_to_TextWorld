@@ -1,0 +1,107 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:32755"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821287.3169215266,
+          7080689.9351060484
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "description" : "rand1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821337.3169215266,
+          7080689.9351060484
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "description" : "rand2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821187.3169215266,
+          7080739.9351060484
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "description" : "rand3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821237.3169215266,
+          7080739.9351060484
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "description" : "rand4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821287.3169215266,
+          7080739.9351060484
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "description" : "rand5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821337.3169215266,
+          7080739.9351060484
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "description" : "rand6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "landmarks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "description": "Pear" }, "geometry": { "type": "Point", "coordinates": [ -6.776678249920838, 35.556987007257099 ] } },
+{ "type": "Feature", "properties": { "id": 2, "description": "Banana" }, "geometry": { "type": "Point", "coordinates": [ 24.243626318607078, 2.937697667155575 ] } },
+{ "type": "Feature", "properties": { "id": 3, "description": "Apple" }, "geometry": { "type": "Point", "coordinates": [ 75.304540024190828, -5.803419084113457 ] } },
+{ "type": "Feature", "properties": { "id": 4, "description": "Exit is in this room!" }, "geometry": { "type": "Point", "coordinates": [ 60.996376060834194, 36.042181923183392 ] } },
+{ "type": "Feature", "properties": { "id": 5, "description": "Move toward North or East!" }, "geometry": { "type": "Point", "coordinates": [ 58.884179269988628, -5.262189961495845 ] } },
+{ "type": "Feature", "properties": { "id": 6, "description": "Move toward East!" }, "geometry": { "type": "Point", "coordinates": [ 32.98474306987611, 20.0 ] } }
+]
+}

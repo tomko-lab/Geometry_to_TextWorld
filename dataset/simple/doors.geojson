@@ -1,0 +1,116 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:32755"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821193.4720727792,
+          7080706.2038385868
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821243.2402973166,
+          7080706.2038385887
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821277.96692927,
+          7080706.2038385877
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821332.6015672246,
+          7080706.4381790385
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821312.297286042,
+          7080724.6486904062
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821262.3169215266,
+          7080724.6508237813
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4821211.8440450793,
+          7080740.8275421374
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0
+      }
+    }
+  ]
+}
